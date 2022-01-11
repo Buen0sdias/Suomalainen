@@ -1,0 +1,14 @@
+C:\Users\steven.suomalainen\source\repos\harjoitus2\harjoitus2\bin\Debug\netcoreapp3.1\harjoitus2.exe
+C:\Users\steven.suomalainen\source\repos\harjoitus2\harjoitus2\bin\Debug\netcoreapp3.1\harjoitus2.deps.json
+C:\Users\steven.suomalainen\source\repos\harjoitus2\harjoitus2\bin\Debug\netcoreapp3.1\harjoitus2.runtimeconfig.json
+C:\Users\steven.suomalainen\source\repos\harjoitus2\harjoitus2\bin\Debug\netcoreapp3.1\harjoitus2.runtimeconfig.dev.json
+C:\Users\steven.suomalainen\source\repos\harjoitus2\harjoitus2\bin\Debug\netcoreapp3.1\harjoitus2.dll
+C:\Users\steven.suomalainen\source\repos\harjoitus2\harjoitus2\bin\Debug\netcoreapp3.1\harjoitus2.pdb
+C:\Users\steven.suomalainen\source\repos\harjoitus2\harjoitus2\obj\Debug\netcoreapp3.1\harjoitus2.csproj.AssemblyReference.cache
+C:\Users\steven.suomalainen\source\repos\harjoitus2\harjoitus2\obj\Debug\netcoreapp3.1\harjoitus2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steven.suomalainen\source\repos\harjoitus2\harjoitus2\obj\Debug\netcoreapp3.1\harjoitus2.AssemblyInfoInputs.cache
+C:\Users\steven.suomalainen\source\repos\harjoitus2\harjoitus2\obj\Debug\netcoreapp3.1\harjoitus2.AssemblyInfo.cs
+C:\Users\steven.suomalainen\source\repos\harjoitus2\harjoitus2\obj\Debug\netcoreapp3.1\harjoitus2.csproj.CoreCompileInputs.cache
+C:\Users\steven.suomalainen\source\repos\harjoitus2\harjoitus2\obj\Debug\netcoreapp3.1\harjoitus2.dll
+C:\Users\steven.suomalainen\source\repos\harjoitus2\harjoitus2\obj\Debug\netcoreapp3.1\harjoitus2.pdb
+C:\Users\steven.suomalainen\source\repos\harjoitus2\harjoitus2\obj\Debug\netcoreapp3.1\harjoitus2.genruntimeconfig.cache
