@@ -1,0 +1,14 @@
+C:\Users\steven.suomalainen\source\repos\Kilometri\Kilometri\obj\Debug\netcoreapp3.1\Kilometri.csproj.AssemblyReference.cache
+C:\Users\steven.suomalainen\source\repos\Kilometri\Kilometri\obj\Debug\netcoreapp3.1\Kilometri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steven.suomalainen\source\repos\Kilometri\Kilometri\obj\Debug\netcoreapp3.1\Kilometri.AssemblyInfoInputs.cache
+C:\Users\steven.suomalainen\source\repos\Kilometri\Kilometri\obj\Debug\netcoreapp3.1\Kilometri.AssemblyInfo.cs
+C:\Users\steven.suomalainen\source\repos\Kilometri\Kilometri\obj\Debug\netcoreapp3.1\Kilometri.csproj.CoreCompileInputs.cache
+C:\Users\steven.suomalainen\source\repos\Kilometri\Kilometri\bin\Debug\netcoreapp3.1\Kilometri.exe
+C:\Users\steven.suomalainen\source\repos\Kilometri\Kilometri\bin\Debug\netcoreapp3.1\Kilometri.deps.json
+C:\Users\steven.suomalainen\source\repos\Kilometri\Kilometri\bin\Debug\netcoreapp3.1\Kilometri.runtimeconfig.json
+C:\Users\steven.suomalainen\source\repos\Kilometri\Kilometri\bin\Debug\netcoreapp3.1\Kilometri.runtimeconfig.dev.json
+C:\Users\steven.suomalainen\source\repos\Kilometri\Kilometri\bin\Debug\netcoreapp3.1\Kilometri.dll
+C:\Users\steven.suomalainen\source\repos\Kilometri\Kilometri\bin\Debug\netcoreapp3.1\Kilometri.pdb
+C:\Users\steven.suomalainen\source\repos\Kilometri\Kilometri\obj\Debug\netcoreapp3.1\Kilometri.dll
+C:\Users\steven.suomalainen\source\repos\Kilometri\Kilometri\obj\Debug\netcoreapp3.1\Kilometri.pdb
+C:\Users\steven.suomalainen\source\repos\Kilometri\Kilometri\obj\Debug\netcoreapp3.1\Kilometri.genruntimeconfig.cache
