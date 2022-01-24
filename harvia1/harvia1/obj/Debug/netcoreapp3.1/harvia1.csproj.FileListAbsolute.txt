@@ -1,0 +1,5 @@
+C:\Users\steven.suomalainen\source\repos\harvia1\harvia1\obj\Debug\netcoreapp3.1\harvia1.csproj.AssemblyReference.cache
+C:\Users\steven.suomalainen\source\repos\harvia1\harvia1\obj\Debug\netcoreapp3.1\harvia1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steven.suomalainen\source\repos\harvia1\harvia1\obj\Debug\netcoreapp3.1\harvia1.AssemblyInfoInputs.cache
+C:\Users\steven.suomalainen\source\repos\harvia1\harvia1\obj\Debug\netcoreapp3.1\harvia1.AssemblyInfo.cs
+C:\Users\steven.suomalainen\source\repos\harvia1\harvia1\obj\Debug\netcoreapp3.1\harvia1.csproj.CoreCompileInputs.cache
