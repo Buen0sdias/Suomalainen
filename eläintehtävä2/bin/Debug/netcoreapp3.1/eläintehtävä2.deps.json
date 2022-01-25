@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "eläintehtävä2/1.0.0": {
+        "runtime": {
+          "eläintehtävä2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "eläintehtävä2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

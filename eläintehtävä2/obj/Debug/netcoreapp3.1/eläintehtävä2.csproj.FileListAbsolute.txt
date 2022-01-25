@@ -1,0 +1,14 @@
+C:\Users\steven.suomalainen\source\repos\eläintehtävä2\eläintehtävä2\obj\Debug\netcoreapp3.1\eläintehtävä2.csproj.AssemblyReference.cache
+C:\Users\steven.suomalainen\source\repos\eläintehtävä2\eläintehtävä2\obj\Debug\netcoreapp3.1\eläintehtävä2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steven.suomalainen\source\repos\eläintehtävä2\eläintehtävä2\obj\Debug\netcoreapp3.1\eläintehtävä2.AssemblyInfoInputs.cache
+C:\Users\steven.suomalainen\source\repos\eläintehtävä2\eläintehtävä2\obj\Debug\netcoreapp3.1\eläintehtävä2.AssemblyInfo.cs
+C:\Users\steven.suomalainen\source\repos\eläintehtävä2\eläintehtävä2\obj\Debug\netcoreapp3.1\eläintehtävä2.csproj.CoreCompileInputs.cache
+C:\Users\steven.suomalainen\source\repos\eläintehtävä2\eläintehtävä2\bin\Debug\netcoreapp3.1\eläintehtävä2.exe
+C:\Users\steven.suomalainen\source\repos\eläintehtävä2\eläintehtävä2\bin\Debug\netcoreapp3.1\eläintehtävä2.deps.json
+C:\Users\steven.suomalainen\source\repos\eläintehtävä2\eläintehtävä2\bin\Debug\netcoreapp3.1\eläintehtävä2.runtimeconfig.json
+C:\Users\steven.suomalainen\source\repos\eläintehtävä2\eläintehtävä2\bin\Debug\netcoreapp3.1\eläintehtävä2.runtimeconfig.dev.json
+C:\Users\steven.suomalainen\source\repos\eläintehtävä2\eläintehtävä2\bin\Debug\netcoreapp3.1\eläintehtävä2.dll
+C:\Users\steven.suomalainen\source\repos\eläintehtävä2\eläintehtävä2\bin\Debug\netcoreapp3.1\eläintehtävä2.pdb
+C:\Users\steven.suomalainen\source\repos\eläintehtävä2\eläintehtävä2\obj\Debug\netcoreapp3.1\eläintehtävä2.dll
+C:\Users\steven.suomalainen\source\repos\eläintehtävä2\eläintehtävä2\obj\Debug\netcoreapp3.1\eläintehtävä2.pdb
+C:\Users\steven.suomalainen\source\repos\eläintehtävä2\eläintehtävä2\obj\Debug\netcoreapp3.1\eläintehtävä2.genruntimeconfig.cache
