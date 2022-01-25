@@ -1,0 +1,14 @@
+C:\Users\steven.suomalainen\source\repos\Vahvistin\Vahvistin\bin\Debug\netcoreapp3.1\Vahvistin.exe
+C:\Users\steven.suomalainen\source\repos\Vahvistin\Vahvistin\bin\Debug\netcoreapp3.1\Vahvistin.deps.json
+C:\Users\steven.suomalainen\source\repos\Vahvistin\Vahvistin\bin\Debug\netcoreapp3.1\Vahvistin.runtimeconfig.json
+C:\Users\steven.suomalainen\source\repos\Vahvistin\Vahvistin\bin\Debug\netcoreapp3.1\Vahvistin.runtimeconfig.dev.json
+C:\Users\steven.suomalainen\source\repos\Vahvistin\Vahvistin\bin\Debug\netcoreapp3.1\Vahvistin.dll
+C:\Users\steven.suomalainen\source\repos\Vahvistin\Vahvistin\bin\Debug\netcoreapp3.1\Vahvistin.pdb
+C:\Users\steven.suomalainen\source\repos\Vahvistin\Vahvistin\obj\Debug\netcoreapp3.1\Vahvistin.csproj.AssemblyReference.cache
+C:\Users\steven.suomalainen\source\repos\Vahvistin\Vahvistin\obj\Debug\netcoreapp3.1\Vahvistin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steven.suomalainen\source\repos\Vahvistin\Vahvistin\obj\Debug\netcoreapp3.1\Vahvistin.AssemblyInfoInputs.cache
+C:\Users\steven.suomalainen\source\repos\Vahvistin\Vahvistin\obj\Debug\netcoreapp3.1\Vahvistin.AssemblyInfo.cs
+C:\Users\steven.suomalainen\source\repos\Vahvistin\Vahvistin\obj\Debug\netcoreapp3.1\Vahvistin.csproj.CoreCompileInputs.cache
+C:\Users\steven.suomalainen\source\repos\Vahvistin\Vahvistin\obj\Debug\netcoreapp3.1\Vahvistin.dll
+C:\Users\steven.suomalainen\source\repos\Vahvistin\Vahvistin\obj\Debug\netcoreapp3.1\Vahvistin.pdb
+C:\Users\steven.suomalainen\source\repos\Vahvistin\Vahvistin\obj\Debug\netcoreapp3.1\Vahvistin.genruntimeconfig.cache
