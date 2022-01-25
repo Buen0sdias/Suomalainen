@@ -1,0 +1,14 @@
+C:\Users\steven.suomalainen\source\repos\hissi\hissi\obj\Debug\netcoreapp3.1\hissi.csproj.AssemblyReference.cache
+C:\Users\steven.suomalainen\source\repos\hissi\hissi\obj\Debug\netcoreapp3.1\hissi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steven.suomalainen\source\repos\hissi\hissi\obj\Debug\netcoreapp3.1\hissi.AssemblyInfoInputs.cache
+C:\Users\steven.suomalainen\source\repos\hissi\hissi\obj\Debug\netcoreapp3.1\hissi.AssemblyInfo.cs
+C:\Users\steven.suomalainen\source\repos\hissi\hissi\obj\Debug\netcoreapp3.1\hissi.csproj.CoreCompileInputs.cache
+C:\Users\steven.suomalainen\source\repos\hissi\hissi\bin\Debug\netcoreapp3.1\hissi.exe
+C:\Users\steven.suomalainen\source\repos\hissi\hissi\bin\Debug\netcoreapp3.1\hissi.deps.json
+C:\Users\steven.suomalainen\source\repos\hissi\hissi\bin\Debug\netcoreapp3.1\hissi.runtimeconfig.json
+C:\Users\steven.suomalainen\source\repos\hissi\hissi\bin\Debug\netcoreapp3.1\hissi.runtimeconfig.dev.json
+C:\Users\steven.suomalainen\source\repos\hissi\hissi\bin\Debug\netcoreapp3.1\hissi.dll
+C:\Users\steven.suomalainen\source\repos\hissi\hissi\bin\Debug\netcoreapp3.1\hissi.pdb
+C:\Users\steven.suomalainen\source\repos\hissi\hissi\obj\Debug\netcoreapp3.1\hissi.dll
+C:\Users\steven.suomalainen\source\repos\hissi\hissi\obj\Debug\netcoreapp3.1\hissi.pdb
+C:\Users\steven.suomalainen\source\repos\hissi\hissi\obj\Debug\netcoreapp3.1\hissi.genruntimeconfig.cache
