@@ -1,0 +1,15 @@
+C:\Users\steven.suomalainen\source\repos\Rajapinnat\Rajapinnat\obj\Debug\net6.0\Rajapinnat.csproj.AssemblyReference.cache
+C:\Users\steven.suomalainen\source\repos\Rajapinnat\Rajapinnat\obj\Debug\net6.0\Rajapinnat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steven.suomalainen\source\repos\Rajapinnat\Rajapinnat\obj\Debug\net6.0\Rajapinnat.AssemblyInfoInputs.cache
+C:\Users\steven.suomalainen\source\repos\Rajapinnat\Rajapinnat\obj\Debug\net6.0\Rajapinnat.AssemblyInfo.cs
+C:\Users\steven.suomalainen\source\repos\Rajapinnat\Rajapinnat\obj\Debug\net6.0\Rajapinnat.csproj.CoreCompileInputs.cache
+C:\Users\steven.suomalainen\source\repos\Rajapinnat\Rajapinnat\bin\Debug\net6.0\Rajapinnat.exe
+C:\Users\steven.suomalainen\source\repos\Rajapinnat\Rajapinnat\bin\Debug\net6.0\Rajapinnat.deps.json
+C:\Users\steven.suomalainen\source\repos\Rajapinnat\Rajapinnat\bin\Debug\net6.0\Rajapinnat.runtimeconfig.json
+C:\Users\steven.suomalainen\source\repos\Rajapinnat\Rajapinnat\bin\Debug\net6.0\Rajapinnat.dll
+C:\Users\steven.suomalainen\source\repos\Rajapinnat\Rajapinnat\bin\Debug\net6.0\ref\Rajapinnat.dll
+C:\Users\steven.suomalainen\source\repos\Rajapinnat\Rajapinnat\bin\Debug\net6.0\Rajapinnat.pdb
+C:\Users\steven.suomalainen\source\repos\Rajapinnat\Rajapinnat\obj\Debug\net6.0\Rajapinnat.dll
+C:\Users\steven.suomalainen\source\repos\Rajapinnat\Rajapinnat\obj\Debug\net6.0\ref\Rajapinnat.dll
+C:\Users\steven.suomalainen\source\repos\Rajapinnat\Rajapinnat\obj\Debug\net6.0\Rajapinnat.pdb
+C:\Users\steven.suomalainen\source\repos\Rajapinnat\Rajapinnat\obj\Debug\net6.0\Rajapinnat.genruntimeconfig.cache
