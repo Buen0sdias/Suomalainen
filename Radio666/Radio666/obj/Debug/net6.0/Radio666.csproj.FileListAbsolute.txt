@@ -1,0 +1,5 @@
+C:\Users\Steven\source\repos\Radio666\Radio666\obj\Debug\net6.0\Radio666.csproj.AssemblyReference.cache
+C:\Users\Steven\source\repos\Radio666\Radio666\obj\Debug\net6.0\Radio666.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steven\source\repos\Radio666\Radio666\obj\Debug\net6.0\Radio666.AssemblyInfoInputs.cache
+C:\Users\Steven\source\repos\Radio666\Radio666\obj\Debug\net6.0\Radio666.AssemblyInfo.cs
+C:\Users\Steven\source\repos\Radio666\Radio666\obj\Debug\net6.0\Radio666.csproj.CoreCompileInputs.cache
