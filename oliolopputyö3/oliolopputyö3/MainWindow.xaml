@@ -1,0 +1,39 @@
+﻿<Window x:Class="oliolopputyö3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:oliolopputyö3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="0,0,0,-6">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Pink"/>
+                <GradientStop Color="Purple" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="184*"/>
+            <RowDefinition Height="147*"/>
+        </Grid.RowDefinitions>
+        <TextBox x:Name="tbTuote" HorizontalAlignment="Left" Height="23" Margin="314,87,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" RenderTransformOrigin="2.53,1.04"/>
+        <RadioButton x:Name="cbJuoma" Content="Juoma" HorizontalAlignment="Left" Margin="534,0,0,0" VerticalAlignment="Center" Height="19" Checked="cbJuoma_Checked"/>
+        <RadioButton x:Name="cbKarkki" Content="Karkki" HorizontalAlignment="Left" Margin="534,150,0,0" VerticalAlignment="Top" Height="18" Checked="cbKarkki_Checked"/>
+        <TextBox x:Name="tbOstokset" HorizontalAlignment="Left" Height="144" Margin="157,198,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="104" Foreground="#FFD42B2B" Grid.RowSpan="2"/>
+        <Button x:Name="btnSelect" Content="Siirry maksamaan
+                " HorizontalAlignment="Left" Margin="534,20,0,0" VerticalAlignment="Top" Width="160" Click="btnSelect_Click" Height="25" Grid.Row="1"/>
+        <Button x:Name="btnTotext" Content="Maksa ostokset" HorizontalAlignment="Left" Margin="148,149,0,0" VerticalAlignment="Top" Width="122" Click="btnTotext_Click"/>
+        <TextBlock x:Name="tbSuccessful" HorizontalAlignment="Left" Margin="419,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" Grid.Row="1"/>
+        <TextBlock HorizontalAlignment="Left" Margin="314,49,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="Black"><Run Language="fi-fi" Text="Tuote jonka ostat:"/></TextBlock>
+        <RadioButton x:Name="cbSipsi" Content="Sipsi" HorizontalAlignment="Left" Margin="534,186,0,0" VerticalAlignment="Top" Checked="cbSipsi_Checked"/>
+        <RadioButton x:Name="cbVaate" Content="Vaate" HorizontalAlignment="Left" Margin="532,220,0,0" VerticalAlignment="Top" Checked="cbVaate_Checked"/>
+        <TextBlock x:Name="tbGenreinfo" HorizontalAlignment="Left" Margin="250,1,0,-28" TextWrapping="Wrap" VerticalAlignment="Top" Width="153" Height="174" Grid.Row="1"/>
+        <TextBlock HorizontalAlignment="Left" Margin="543,79,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="Tuotteen kategoria:" Foreground="Blue"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Kauppa lista" VerticalAlignment="Top" Height="26" Width="63"/>
+        <Button x:Name="BTN_Pois" Content="Sammuta" Margin="681,8,10,180" Click="Off_Click"/>
+
+
+
+    </Grid>
+</Window>
