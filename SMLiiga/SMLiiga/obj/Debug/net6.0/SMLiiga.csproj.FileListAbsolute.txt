@@ -1,0 +1,15 @@
+C:\Users\Steven\source\repos\SMLiiga\SMLiiga\bin\Debug\net6.0\SMLiiga.exe
+C:\Users\Steven\source\repos\SMLiiga\SMLiiga\bin\Debug\net6.0\SMLiiga.deps.json
+C:\Users\Steven\source\repos\SMLiiga\SMLiiga\bin\Debug\net6.0\SMLiiga.runtimeconfig.json
+C:\Users\Steven\source\repos\SMLiiga\SMLiiga\bin\Debug\net6.0\SMLiiga.dll
+C:\Users\Steven\source\repos\SMLiiga\SMLiiga\bin\Debug\net6.0\ref\SMLiiga.dll
+C:\Users\Steven\source\repos\SMLiiga\SMLiiga\bin\Debug\net6.0\SMLiiga.pdb
+C:\Users\Steven\source\repos\SMLiiga\SMLiiga\obj\Debug\net6.0\SMLiiga.csproj.AssemblyReference.cache
+C:\Users\Steven\source\repos\SMLiiga\SMLiiga\obj\Debug\net6.0\SMLiiga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steven\source\repos\SMLiiga\SMLiiga\obj\Debug\net6.0\SMLiiga.AssemblyInfoInputs.cache
+C:\Users\Steven\source\repos\SMLiiga\SMLiiga\obj\Debug\net6.0\SMLiiga.AssemblyInfo.cs
+C:\Users\Steven\source\repos\SMLiiga\SMLiiga\obj\Debug\net6.0\SMLiiga.csproj.CoreCompileInputs.cache
+C:\Users\Steven\source\repos\SMLiiga\SMLiiga\obj\Debug\net6.0\SMLiiga.dll
+C:\Users\Steven\source\repos\SMLiiga\SMLiiga\obj\Debug\net6.0\ref\SMLiiga.dll
+C:\Users\Steven\source\repos\SMLiiga\SMLiiga\obj\Debug\net6.0\SMLiiga.pdb
+C:\Users\Steven\source\repos\SMLiiga\SMLiiga\obj\Debug\net6.0\SMLiiga.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Steven\source\repos\korttipakka\korttipakka\bin\Debug\net6.0\korttipakka.exe
+C:\Users\Steven\source\repos\korttipakka\korttipakka\bin\Debug\net6.0\korttipakka.deps.json
+C:\Users\Steven\source\repos\korttipakka\korttipakka\bin\Debug\net6.0\korttipakka.runtimeconfig.json
+C:\Users\Steven\source\repos\korttipakka\korttipakka\bin\Debug\net6.0\korttipakka.dll
+C:\Users\Steven\source\repos\korttipakka\korttipakka\bin\Debug\net6.0\ref\korttipakka.dll
+C:\Users\Steven\source\repos\korttipakka\korttipakka\bin\Debug\net6.0\korttipakka.pdb
+C:\Users\Steven\source\repos\korttipakka\korttipakka\obj\Debug\net6.0\korttipakka.csproj.AssemblyReference.cache
+C:\Users\Steven\source\repos\korttipakka\korttipakka\obj\Debug\net6.0\korttipakka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steven\source\repos\korttipakka\korttipakka\obj\Debug\net6.0\korttipakka.AssemblyInfoInputs.cache
+C:\Users\Steven\source\repos\korttipakka\korttipakka\obj\Debug\net6.0\korttipakka.AssemblyInfo.cs
+C:\Users\Steven\source\repos\korttipakka\korttipakka\obj\Debug\net6.0\korttipakka.csproj.CoreCompileInputs.cache
+C:\Users\Steven\source\repos\korttipakka\korttipakka\obj\Debug\net6.0\korttipakka.dll
+C:\Users\Steven\source\repos\korttipakka\korttipakka\obj\Debug\net6.0\ref\korttipakka.dll
+C:\Users\Steven\source\repos\korttipakka\korttipakka\obj\Debug\net6.0\korttipakka.pdb
+C:\Users\Steven\source\repos\korttipakka\korttipakka\obj\Debug\net6.0\korttipakka.genruntimeconfig.cache

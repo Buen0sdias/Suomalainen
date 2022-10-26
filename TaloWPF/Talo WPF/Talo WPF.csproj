@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Talo_WPF</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="MicrosoftTeams-image.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="MicrosoftTeams-image.png" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,42 @@
+C:\Users\Steven\source\repos\Talo WPF\Talo WPF\bin\Debug\net6.0-windows\Talo WPF.exe
+C:\Users\Steven\source\repos\Talo WPF\Talo WPF\bin\Debug\net6.0-windows\Talo WPF.deps.json
+C:\Users\Steven\source\repos\Talo WPF\Talo WPF\bin\Debug\net6.0-windows\Talo WPF.runtimeconfig.json
+C:\Users\Steven\source\repos\Talo WPF\Talo WPF\bin\Debug\net6.0-windows\Talo WPF.dll
+C:\Users\Steven\source\repos\Talo WPF\Talo WPF\bin\Debug\net6.0-windows\ref\Talo WPF.dll
+C:\Users\Steven\source\repos\Talo WPF\Talo WPF\bin\Debug\net6.0-windows\Talo WPF.pdb
+C:\Users\Steven\source\repos\Talo WPF\Talo WPF\obj\Debug\net6.0-windows\Talo WPF.csproj.AssemblyReference.cache
+C:\Users\Steven\source\repos\Talo WPF\Talo WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Steven\source\repos\Talo WPF\Talo WPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Steven\source\repos\Talo WPF\Talo WPF\obj\Debug\net6.0-windows\Talo WPF_MarkupCompile.cache
+C:\Users\Steven\source\repos\Talo WPF\Talo WPF\obj\Debug\net6.0-windows\Talo WPF_MarkupCompile.lref
+C:\Users\Steven\source\repos\Talo WPF\Talo WPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Steven\source\repos\Talo WPF\Talo WPF\obj\Debug\net6.0-windows\Talo WPF.g.resources
+C:\Users\Steven\source\repos\Talo WPF\Talo WPF\obj\Debug\net6.0-windows\Talo WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steven\source\repos\Talo WPF\Talo WPF\obj\Debug\net6.0-windows\Talo WPF.AssemblyInfoInputs.cache
+C:\Users\Steven\source\repos\Talo WPF\Talo WPF\obj\Debug\net6.0-windows\Talo WPF.AssemblyInfo.cs
+C:\Users\Steven\source\repos\Talo WPF\Talo WPF\obj\Debug\net6.0-windows\Talo WPF.csproj.CoreCompileInputs.cache
+C:\Users\Steven\source\repos\Talo WPF\Talo WPF\obj\Debug\net6.0-windows\Talo WPF.dll
+C:\Users\Steven\source\repos\Talo WPF\Talo WPF\obj\Debug\net6.0-windows\ref\Talo WPF.dll
+C:\Users\Steven\source\repos\Talo WPF\Talo WPF\obj\Debug\net6.0-windows\Talo WPF.pdb
+C:\Users\Steven\source\repos\Talo WPF\Talo WPF\obj\Debug\net6.0-windows\Talo WPF.genruntimeconfig.cache
+C:\Users\Steven\source\repos\Oliot22\Suomalainen\Talo WPF\Talo WPF\bin\Debug\net6.0-windows\Talo WPF.exe
+C:\Users\Steven\source\repos\Oliot22\Suomalainen\Talo WPF\Talo WPF\bin\Debug\net6.0-windows\Talo WPF.deps.json
+C:\Users\Steven\source\repos\Oliot22\Suomalainen\Talo WPF\Talo WPF\bin\Debug\net6.0-windows\Talo WPF.runtimeconfig.json
+C:\Users\Steven\source\repos\Oliot22\Suomalainen\Talo WPF\Talo WPF\bin\Debug\net6.0-windows\Talo WPF.dll
+C:\Users\Steven\source\repos\Oliot22\Suomalainen\Talo WPF\Talo WPF\bin\Debug\net6.0-windows\ref\Talo WPF.dll
+C:\Users\Steven\source\repos\Oliot22\Suomalainen\Talo WPF\Talo WPF\bin\Debug\net6.0-windows\Talo WPF.pdb
+C:\Users\Steven\source\repos\Oliot22\Suomalainen\Talo WPF\Talo WPF\obj\Debug\net6.0-windows\Talo WPF.csproj.AssemblyReference.cache
+C:\Users\Steven\source\repos\Oliot22\Suomalainen\Talo WPF\Talo WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Steven\source\repos\Oliot22\Suomalainen\Talo WPF\Talo WPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Steven\source\repos\Oliot22\Suomalainen\Talo WPF\Talo WPF\obj\Debug\net6.0-windows\Talo WPF_MarkupCompile.cache
+C:\Users\Steven\source\repos\Oliot22\Suomalainen\Talo WPF\Talo WPF\obj\Debug\net6.0-windows\Talo WPF_MarkupCompile.lref
+C:\Users\Steven\source\repos\Oliot22\Suomalainen\Talo WPF\Talo WPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Steven\source\repos\Oliot22\Suomalainen\Talo WPF\Talo WPF\obj\Debug\net6.0-windows\Talo WPF.g.resources
+C:\Users\Steven\source\repos\Oliot22\Suomalainen\Talo WPF\Talo WPF\obj\Debug\net6.0-windows\Talo WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steven\source\repos\Oliot22\Suomalainen\Talo WPF\Talo WPF\obj\Debug\net6.0-windows\Talo WPF.AssemblyInfoInputs.cache
+C:\Users\Steven\source\repos\Oliot22\Suomalainen\Talo WPF\Talo WPF\obj\Debug\net6.0-windows\Talo WPF.AssemblyInfo.cs
+C:\Users\Steven\source\repos\Oliot22\Suomalainen\Talo WPF\Talo WPF\obj\Debug\net6.0-windows\Talo WPF.csproj.CoreCompileInputs.cache
+C:\Users\Steven\source\repos\Oliot22\Suomalainen\Talo WPF\Talo WPF\obj\Debug\net6.0-windows\Talo WPF.dll
+C:\Users\Steven\source\repos\Oliot22\Suomalainen\Talo WPF\Talo WPF\obj\Debug\net6.0-windows\ref\Talo WPF.dll
+C:\Users\Steven\source\repos\Oliot22\Suomalainen\Talo WPF\Talo WPF\obj\Debug\net6.0-windows\Talo WPF.pdb
+C:\Users\Steven\source\repos\Oliot22\Suomalainen\Talo WPF\Talo WPF\obj\Debug\net6.0-windows\Talo WPF.genruntimeconfig.cache
